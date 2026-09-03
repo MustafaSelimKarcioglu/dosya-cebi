@@ -3,7 +3,7 @@ Android file manager for RAR, ZIP, 7z and PDF files — built with Kotlin
 İlk sürüm.
 
 ÖZELLİKLER
-- RAR, RAR5, ZIP, 7z, TAR arşivlerini açma
+- RAR, RAR5, ZIP, 7z, arşivlerini açma
 - Arşiv içeriğini çıkarmadan önizleme
 - Tümünü klasöre çıkarma
 - PDF görüntüleme
